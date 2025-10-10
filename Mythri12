@@ -1,5 +1,6 @@
-i = 0
-while i < 100:
-    print("i love you mythri")
-    i += 1
+print("hello world")
+if("she is going"):
+    print("not she")
+else:
+    print("is she")
 
